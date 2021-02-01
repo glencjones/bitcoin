@@ -3,7 +3,7 @@
 
 
 
-The following is a Gentoo layman portage for those interested in Bitcoin and digital distribution of data.
+The following is a Gentoo layman addition to the portage for those interested in Bitcoin and digital distribution of data.
 
 All software within this portage are sources from multiple projects that can sourced directly and might have different licences.
 
